@@ -49,9 +49,14 @@ To begin using the repository:
 
 ### 4. Contributing
 We welcome contributions from the community! Please follow these steps:
-1. Fork the repository.
-2. Create a new branch for your feature or bug fix.
-3. Commit your changes and submit a pull request.
+
+1. **Fork the Repository**: Create your copy of the repository by clicking the "Fork" button on GitHub.
+2. **Clone Your Fork**: Use the command `git clone <your_forked_repo_url>` to clone it locally.
+3. **Create a New Branch**: Work on your changes in a new branch. For example: `git checkout -b feature-name`.
+4. **Make Your Changes**: Implement your updates, fixes, or new features.
+5. **Commit Your Changes**: Use descriptive commit messages. For example: `git commit -m "Add feature XYZ"`.
+6. **Push to Your Fork**: Push the changes to your forked repository: `git push origin feature-name`.
+7. **Submit a Pull Request**: Go to the original repository and create a pull request from your forked repository.
 
 ### 5. License
 This project is licensed under the MIT License. See the `LICENSE` file for details.
