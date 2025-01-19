@@ -1,5 +1,8 @@
-These files added here are taken from MATLAB Add on abd us work by Ph.D. Eng. Hristo Zhivomirov. 
-I acknowledge his work and adding his work in my github repository for any future work.
+The files included here are taken from MATLAB Add-ons and were originally developed by Ph.D. Eng. Hristo Zhivomirov. I acknowledge and highly appreciate his work, which has been added to this repository for educational and future research purposes.
 
-Thank you Sir Ph.D. Eng. Hristo Zhivomirov and MATLAB Mathwork
-From: Hammad E Muhammad
+The original copyright notice, license terms, and disclaimer provided by Ph.D. Eng. Hristo Zhivomirov have been retained as required under the BSD 3-Clause License.
+
+Thank you, Ph.D. Eng. Hristo Zhivomirov, and MATLAB MathWorks, for your contributions to the field.
+
+Sincerely,
+Hammad E Muhammad
