@@ -6,7 +6,7 @@ qubit_state = zeros(1, num_steps);
 qubit_state(1) = 1;
 probability_tunneling = 0.05;
 sigma = 0.1;
-noise = normrnd(0, sigma, 1, num_steps);
+noise = sigma * randn(1, num_steps);
 
 for t = 2:num_steps
     if rand < probability_tunneling
